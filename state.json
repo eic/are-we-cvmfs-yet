@@ -13640,5 +13640,19 @@
         "s1ihep-cvmfs.openhtc.io/cvmfs": "1786164259"
       }
     }
+  },
+  {
+    "timestamp": "1786258688",
+    "fqrns": {
+      "singularity": {
+        "s1bnl-cvmfs.openhtc.io/cvmfs": "1786245089",
+        "s1fnal-cvmfs.openhtc.io/cvmfs": "1786245089",
+        "s1ihep-cvmfs.openhtc.io/cvmfs": "1786245089"
+      },
+      "eic": {
+        "s1fnal-cvmfs.openhtc.io/cvmfs": "1786250575",
+        "s1ihep-cvmfs.openhtc.io/cvmfs": "1786250575"
+      }
+    }
   }
 ]
