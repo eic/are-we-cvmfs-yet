@@ -84,7 +84,7 @@ def plot_lag(data: list, fqrn: str) -> None:
         for host, data_dict in host_data.items():
             if data_dict['timestamps']:
                 ax.plot(data_dict['timestamps'], data_dict['lags'], 
-                       marker='o', label=host, alpha=0.7)
+                       marker='.', label=host, alpha=0.7)
         
         ax.set_title(f'CVMFS Synchronization Lag by Host - {fqrn}')
         ax.set_xlabel('Date')
