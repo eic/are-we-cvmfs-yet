@@ -50,8 +50,6 @@ def plot_lag(data: list, fqrn: str) -> None:
     import matplotlib
     matplotlib.use('Agg')  # non‑interactive backend suitable for CI/headless
     import matplotlib.pyplot as plt
-    plt.xkcd()
-    plt.rcParams.update({'font.family': 'DejaVu Sans'})
 
     # Collect data for each host
     host_data = {}
