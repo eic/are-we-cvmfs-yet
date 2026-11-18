@@ -19282,5 +19282,21 @@
         "cvmfs-stratum-one.ihep.ac.cn": "1794899520"
       }
     }
+  },
+  {
+    "timestamp": "1795014926",
+    "fqrns": {
+      "singularity": {
+        "s1bnl-cvmfs.openhtc.io/cvmfs": "1795003153",
+        "s1fnal-cvmfs.openhtc.io/cvmfs": "1795003153",
+        "s1ihep-cvmfs.openhtc.io/cvmfs": "1795003153",
+        "cvmfs-stratum-one.ihep.ac.cn": "1795003153"
+      },
+      "eic": {
+        "s1fnal-cvmfs.openhtc.io/cvmfs": "1794987251",
+        "s1ihep-cvmfs.openhtc.io/cvmfs": "1794987251",
+        "cvmfs-stratum-one.ihep.ac.cn": "1794987251"
+      }
+    }
   }
 ]
